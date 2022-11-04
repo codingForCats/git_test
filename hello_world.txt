@@ -1,3 +1,5 @@
 This is the first commit of the rest of my life
 
 And this is a line of text, so that I can practice git commits
+
+3rd change
